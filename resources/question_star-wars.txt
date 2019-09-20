@@ -1,0 +1,28 @@
+TextualAnswer
+Qui est le père de Luke Skywalker ?
+Dark Vador
+1
+YesNoAnswer
+Hoth est-elle une planète tempérée ?
+no
+1
+MultipleChoiceAnswer
+Qui exposa Han (Yan) Solo dans son palais ?
+Jabba le Hutt | Boba Fett | Palpatine
+2
+TextualAnswer
+Donner le titre de l'épisode IV
+Un nouvel espoir
+2
+MultipleChoiceAnswer
+Luke Skywalker pilote généralement
+un X-Wing | un A-Wing | un B-Wing | un T-Wing
+2
+YesNoAnswer
+Carrie Fisher incarnait Leia Organa ?
+yes
+2
+TextualAnswer
+Un apprenti Jedi est un 
+Jedi
+2
