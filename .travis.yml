@@ -4,3 +4,5 @@ jdk:
 addons:
   sonarcloud:
     organization: "thomas-moreau"
+script:
+  - mvn clean verify sonar:sonar -Pcoverage -Dsonar.projectKey=thomas-moreau
